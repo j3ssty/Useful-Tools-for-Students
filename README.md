@@ -15,14 +15,24 @@ Each section is written by a different team member.
 
 ## VS Code
 ### Written by Trevor:
-Visual Studio Code (VS Code) is the ultimate code editor for computer science students and anyone learning to program. It is a lightweight but incredibly powerful desktop application that runs on Windows, macOS, and Linux.
 
-#### Key Features
-- Built-in Git integration: Track your code changes and push assignments to GitHub effortlessly.
-- Massive extension marketplace: Install tools for Python, Java, C++, HTML, and autocomplete features like IntelliSense.
-- Integrated terminal: Run your scripts and command-line tools without leaving the editor.
-- Live Share: Collaborate with your classmates on group coding projects in real-time.Notion
+**Visual Studio Code** (VS Code) is a free code editor made by Microsoft.
+It is one of the most popular editors for programming.
 
+### Why Students Should Use It
+- It works on Windows, Mac, and Linux.
+- It supports almost every programming language.
+- It has a built-in terminal so you can run commands without leaving the editor.
+- Thousands of extensions add extra features like themes, linters, and AI assistance.
+
+### How to Get Started
+1. Download it from [code.visualstudio.com](https://code.visualstudio.com/).
+2. Install the recommended extensions for your programming language.
+3. Open a folder and start coding.
+
+### Useful Links
+- [VS Code Documentation](https://code.visualstudio.com/docs)
+- [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 ## Notion
 <!-- Mell will write this section -->
 
