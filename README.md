@@ -1,5 +1,4 @@
-
-<!-- Trevor will write this section --># Useful Tools for Students
+# Useful Tools for Students
 
 A collaborative guide by Trevor, Mell, Angeline and Stephen.
 
