@@ -34,7 +34,16 @@ It is one of the most popular editors for programming.
 - [VS Code Documentation](https://code.visualstudio.com/docs)
 - [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 ## Notion
-<!-- Mell will write this section -->
+### Written by Mell:
+
+Notion is an all-in-one productivity and note-taking tool that helps students organize their studies, projects, and personal tasks. It allows users to create notes, databases, to-do lists, and collaborative workspaces.
+
+#### Key Features
+- Note-taking: Create and organize class notes efficiently.
+- Task management: Track assignments and deadlines using to-do lists.
+- Collaboration: Share pages and work with classmates in real time.
+- Templates: Use ready-made templates for study planners, project management, 
+- its worth it
 
 ## Canva
 <!-- Angeline will write this section -->
