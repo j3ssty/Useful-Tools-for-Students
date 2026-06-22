@@ -46,8 +46,27 @@ Notion is an all-in-one productivity and note-taking tool that helps students or
 - its worth it
 
 ## Canva
-<!-- Angeline will write this section -->
-
+## Written by Angeline
+*Canva* is graphic design plartform that lets you create visual content without needing advanced design skills.
+it works in a web browser and as a mobile app.
+### canva can be used to create:
+presentations
+posters
+flyers
+certificates
+resumes
+logos
+videos and animations
+### How Canva is used
+1. Create an account - sign up sing email, googleor another account
+2. Choose a design type - select atemplate such as presentation
+3 Customize the design - change text, colors, fonts
+4. add graphics and media - use canvas built in photoa, icons
+5. Save or share
+### Why tudents use Canva
+. Easy to learn
+. Free version available
+. Thousands of ready-made template
 ## chatGPT
 ## Written by Stephen
 *Chat gpt* is an artificial intelligence (AI) chat bot used to understand human language and respond to questions, generate ideas, help with learnig, write content and assist with many everyday task.
