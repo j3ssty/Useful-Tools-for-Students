@@ -107,7 +107,8 @@ Improvision of the canva section
 *Creative projects* - **Generates ideas for presentations, strories, and school projects**.
 ## Add a section about chatGPT
 The chatGPT section currently contains only basic information and needs more visualcontent. Adding relevant images and screenshots will help students understand the topic better, make read me more attractive, and improve the overall laerning experience for students who are using the project.
-
+##proofread and fix typos in README##
+```The README file may contain mistakes, grammatical errors, and formatting issues that can make the documentation difficult to read and understand```. 
 
 
 
