@@ -34,6 +34,21 @@ It is one of the most popular editors for programming.
 1. Download it from [://visualstudio.com](https://://visualstudio.com/).
 2. Install the recommended extensions for your programming language.
 3. Open a folder and start coding.
+4. 
+ ###  Vscode Extentions list for students
+ 1. Live Server ⭐⭐⭐⭐⭐
+Runs your HTML pages in a browser automatically.
+Refreshes the browser whenever you save your code.
+2. Prettier ⭐⭐⭐⭐⭐
+Automatically formats your code.
+Keeps HTML, CSS, and JavaScript clean and readable.
+3. ESLint ⭐⭐⭐⭐
+Finds errors and bad practices in JavaScript.
+Helps you write better code.
+4. GitLens ⭐⭐⭐⭐⭐
+Makes Git easier to understand.
+Shows who changed code and when.
+   
 
 ### Useful Links
 - [VS Code Documentation](https://://visualstudio.com/docs)
