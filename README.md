@@ -59,7 +59,15 @@ Supports file sharing and document management.
 Accessible from desktop, web, and mobile devices.
 Helps improve productivity and organization
 Easy to use with a clean and user friendly interface
-
+## Notion Set up Guide
+1. Visit https://www.notion.so and create a free account.
+2. Download the Notion desktop app or use the web version.
+3. Create a new workspace for your studies or projects.
+4. Add pages for notes, assignments, and schedules.
+5. Use templates to quickly set up study planners and task trackers.
+6. Organize information using databases, tables, and to-do lists.
+7. Share pages with classmates for collaboration.
+8. Sync your account across desktop and mobile devices.
 ## Canva
 <!-- Angeline will write this section -->
 
