@@ -51,6 +51,15 @@ Notion is an all-in-one productivity and note-taking tool that helps students or
 - Templates: Use ready-made templates for study planners, project management, 
 - its worth it
 
+## Advantages of Using Notion:
+Organizes notes, tasks, and projects in one place.
+Makes team collaboration easy.
+Allows creation of custom pages and databases.
+Supports file sharing and document management.
+Accessible from desktop, web, and mobile devices.
+Helps improve productivity and organization
+Easy to use with a clean and user friendly interface
+
 ## Canva
 <!-- Angeline will write this section -->
 
