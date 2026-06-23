@@ -69,13 +69,14 @@ Easy to use with a clean and user friendly interface
 7. Share pages with classmates for collaboration.
 8. Sync your account across desktop and mobile devices.
 ## Canva
-Written by Angeline
-Canva is graphic design plartform that lets you create visual content without needing advanced design skills. it works in a web browser and as a mobile app.
+##Written by Angeline
 
-canva can be used to create:
+*Canva* is graphic design plartform that lets you create visual content without needing advanced design skills. it works in a web browser and as a mobile app.
+
+**canva can be used to create**:
 presentations posters flyers certificates resumes logos videos and animations
 
-How Canva is used
+##How Canva is used
 Create an account - sign up sing email, googleor another account
 Choose a design type - select atemplate such as presentation 3 Customize the design - change text, colors, fonts
 add graphics and media - use canvas built in photoa, icons
