@@ -105,8 +105,8 @@ Improvision of the canva section
 *Coding and programing help* - **Assists students in learning programming and fixing coding errors**.
 *Time management* - **Helps create create study schedules and organize tasks**.
 *Creative projects* - **Generates ideas for presentations, strories, and school projects**.
-## Add a section about chatGPT 
-Review the README file and correct spelling and formatting error. This will improve quality and professionalism of the project
+## Add a section about chatGPT
+The chatGPT section currently contains only basic information and needs more visualcontent. Adding relevant images and screenshots will help students understand the topic better, make read me more attractive, and improve the overall laerning experience for students who are using the project.
 
 
 
