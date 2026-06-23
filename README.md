@@ -53,6 +53,8 @@ It is one of the most popular editors for programming.
 *Coding and programing help* - **Assists students in learning programming and fixing coding errors**.
 *Time management* - **Helps create create study schedules and organize tasks**.
 *Creative projects* - **Generates ideas for presentations, strories, and school projects**.
+## Add a section about chatGPT 
+Review the README file and correct spelling and formatting error. This will improve quality and professionalism of the project
 
 
 
