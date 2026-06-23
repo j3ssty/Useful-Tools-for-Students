@@ -24,17 +24,32 @@ It is one of the most popular editors for programming.
 - It supports almost every programming language.
 - It has a built-in terminal so you can run commands without leaving the editor.
 - Thousands of extensions add extra features like themes, linters, and AI assistance.
+- its worth it
+
+### Vscode setup guide
+- Go to visualstudio.com and download the installer for your operating system (Windows, Mac, or Linux).
+- Run the installer and follow the default prompts to complete the setup.
 
 ### How to Get Started
-1. Download it from [code.visualstudio.com](https://code.visualstudio.com/).
+1. Download it from [://visualstudio.com](https://://visualstudio.com/).
 2. Install the recommended extensions for your programming language.
 3. Open a folder and start coding.
 
 ### Useful Links
-- [VS Code Documentation](https://code.visualstudio.com/docs)
-- [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+- [VS Code Documentation](https://://visualstudio.com/docs)
+- [VS Code Tips and Tricks](https://://visualstudio.com/docs/getstarted/tips-and-tricks)
+
 ## Notion
-<!-- Mell will write this section -->
+### Written by Mell:
+
+Notion is an all-in-one productivity and note-taking tool that helps students organize their studies, projects, and personal tasks. It allows users to create notes, databases, to-do lists, and collaborative workspaces.
+
+#### Key Features
+- Note-taking: Create and organize class notes efficiently.
+- Task management: Track assignments and deadlines using to-do lists.
+- Collaboration: Share pages and work with classmates in real time.
+- Templates: Use ready-made templates for study planners, project management, 
+- its worth it
 
 ## Canva
 <!-- Angeline will write this section -->
@@ -55,6 +70,18 @@ It is one of the most popular editors for programming.
 *Creative projects* - **Generates ideas for presentations, strories, and school projects**.
 ## Add a section about chatGPT 
 Review the README file and correct spelling and formatting error. This will improve quality and professionalism of the project
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
