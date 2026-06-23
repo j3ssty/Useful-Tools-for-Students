@@ -76,7 +76,7 @@ Easy to use with a clean and user friendly interface
 **canva can be used to create**:
 presentations posters flyers certificates resumes logos videos and animations
 
-##How Canva is used
+## How Canva is used
 Create an account - sign up sing email, googleor another account
 Choose a design type - select atemplate such as presentation 3 Customize the design - change text, colors, fonts
 add graphics and media - use canvas built in photoa, icons
@@ -88,7 +88,7 @@ Improvision of the canva section
 - prooffreading to locate errors
 - formatting of typos
   ## Addition to the teams project
-  1. More information abot the canva section
+  1. More information about the canva section
   2. clarification on the uses of canva
 
 ## chatGPT
