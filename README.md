@@ -83,6 +83,10 @@ add graphics and media - use canvas built in photoa, icons
 Save or share
 Why tudents use Canva
 . Easy to learn . Free version available . Thousands of ready-made template
+Improvision of the canva section
+- improvise by adding images
+- prooffreading to locate errors
+- formatting of typos
 
 ## chatGPT
 ## Written by Stephen
