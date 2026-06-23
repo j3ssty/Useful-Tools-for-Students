@@ -87,6 +87,9 @@ Improvision of the canva section
 - improvise by adding images
 - prooffreading to locate errors
 - formatting of typos
+  ## Addition to the teams project
+  1. More information abot the canva section
+  2. clarification on the uses of canva
 
 ## chatGPT
 ## Written by Stephen
