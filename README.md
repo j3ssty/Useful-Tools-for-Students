@@ -37,17 +37,17 @@ It is one of the most popular editors for programming.
 4. 
  ###  Vscode Extentions list for students
  1. Live Server ⭐⭐⭐⭐⭐
-Runs your HTML pages in a browser automatically.
-Refreshes the browser whenever you save your code.
+- Runs your HTML pages in a browser automatically.
+  Refreshes the browser whenever you save your code.
 2. Prettier ⭐⭐⭐⭐⭐
-Automatically formats your code.
-Keeps HTML, CSS, and JavaScript clean and readable.
+- Automatically formats your code.
+  Keeps HTML, CSS, and JavaScript clean and readable.
 3. ESLint ⭐⭐⭐⭐
-Finds errors and bad practices in JavaScript.
-Helps you write better code.
+- Finds errors and bad practices in JavaScript.
+  Helps you write better code.
 4. GitLens ⭐⭐⭐⭐⭐
-Makes Git easier to understand.
-Shows who changed code and when.
+- Makes Git easier to understand.
+  Shows who changed code and when.
    
 
 ### Useful Links
