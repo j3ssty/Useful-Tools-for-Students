@@ -69,7 +69,7 @@ Easy to use with a clean and user friendly interface
 7. Share pages with classmates for collaboration.
 8. Sync your account across desktop and mobile devices.
 ## Canva
-##Written by Angeline
+## Written by Angeline
 
 *Canva* is graphic design plartform that lets you create visual content without needing advanced design skills. it works in a web browser and as a mobile app.
 
