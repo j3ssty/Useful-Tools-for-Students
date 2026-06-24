@@ -83,6 +83,8 @@ Easy to use with a clean and user friendly interface
 6. Organize information using databases, tables, and to-do lists.
 7. Share pages with classmates for collaboration.
 8. Sync your account across desktop and mobile devices.
+
+   
 ## Canva
 ## Written by Angeline
 
